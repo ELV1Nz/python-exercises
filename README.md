@@ -1,2 +1,2 @@
 # python-exercises
-ejercicios algorítmicos desarrollados en python
+ejercicios de algorítmos desarrollados en python
